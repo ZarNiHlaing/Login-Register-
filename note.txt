@@ -1,0 +1,3 @@
+yarn
+yarn add tailwindcss postcss autoprefixer
+yarn tailwindcss init -p
